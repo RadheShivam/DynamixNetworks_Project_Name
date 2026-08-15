@@ -1,0 +1,26 @@
+
+Netflix Content Analysis — Executive Summary
+
+The dataset contains 7,787 Netflix titles, including 5,377 Movies
+and 2,410 TV Shows. Movies represent the majority of the catalog.
+
+Content additions increased substantially over the observed period,
+with 2019 recording the highest number of titles added to Netflix
+at 2,153 titles.
+
+International Movies is the most common individual genre, followed
+by Dramas and Comedies. The United States has the highest country
+representation after separating multi-country records.
+
+TV-MA is the most common rating for both Movies and TV Shows.
+Among Movies, the average duration is approximately 99.31 minutes,
+while TV Shows have an average duration of approximately 1.78 seasons.
+
+The analysis also shows differences in content profiles between
+countries. Dramas are the leading genre among titles associated
+with the United States, while International Movies are the leading
+genre among titles associated with India.
+
+Overall, the analysis provides insights into Netflix's content mix,
+content-addition trends, ratings, genres, geographic distribution,
+movie duration, and TV Show season patterns.
